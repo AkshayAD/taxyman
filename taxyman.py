@@ -322,6 +322,7 @@ with gr.Blocks(title="💰 Tax Regime Comparator 2024-25 vs 2025-26", theme=gr.t
     )
 
 demo.launch(inbrowser=True)
+demo.launch(share=True)
 
 
 # In[ ]:
